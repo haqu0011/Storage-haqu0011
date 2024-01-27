@@ -1,5 +1,28 @@
 
 
-h1 {
-    color:red;
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    text-align: center;
+    background-color: lightblue;
+
 }
+
+
+h1 {
+    color: teal;
+    margin: 0;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 900;
+
+}
+
+h2 {
+    color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+
